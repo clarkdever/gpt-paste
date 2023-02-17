@@ -36,7 +36,7 @@ If you have any suggestions or find any issues with the project, feel free to op
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Did you find this useful?
-1. Add me on linkedin or twitter and let me know
+1. Add me on [linkedin](https://linkedin.com/in/clarkdever) or [twitter](https://www.twitter.com/clarkdever) and let me know
 2. Star this library or share it on your socials
 
 Happy Hacking!
