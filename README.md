@@ -16,7 +16,7 @@ pip install pyperclip
 To get a local copy of this project, you can clone the repository using Git:
 
 ```bash
-git clone https://github.com/your_username/your_project.git
+git clone https://github.com/clarkdever/gpt-paste.git
 ```
 Alternatively, you can download the ZIP archive of the project and extract it to your desired directory.
 
