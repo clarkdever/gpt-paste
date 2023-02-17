@@ -1,5 +1,9 @@
-# Project Title
+# GPT Paste
 
+## Problem
+When you're using GPTChat to work on your code, it often loses state or has no ability to see the modifications you made in editor.
+
+## Solution
 This is a Python script that reads all .py files in the current directory (excluding the script file itself), concatenates their contents, and adds the name of each file as a comment at the beginning of each file's contents. The resulting output is then copied to the clipboard for pasting into GPTChat.
 
 ## Getting Started
